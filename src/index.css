@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Acme&family=Geologica:wght@100..900&family=Savate:ital,wght@0,200..900;1,200..900&family=Space+Grotesk:wght@300..700&family=Spicy+Rice&display=swap');
+@import "bootstrap-icons/font/bootstrap-icons.css";
+@import "tailwindcss";
+
+body {
+  font-family: 'Abril Fatface', cursive;
+  background: #000;
+  color: #fff;
+}
+
+
