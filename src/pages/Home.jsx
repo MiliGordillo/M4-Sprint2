@@ -18,7 +18,7 @@ const movies = [
 const Home = ({ addToWatchlist, watchlist }) => (
   <section className="px-6 py-8">
     <h2 className="text-4xl md:text-5xl font-extrabold mb-8 text-center tracking-tight drop-shadow-lg">
-      Películas Populares
+      Películas
     </h2>
     <MovieList movies={movies} onAdd={addToWatchlist} watchlist={watchlist} />
   </section>
